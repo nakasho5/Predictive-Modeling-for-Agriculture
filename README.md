@@ -1,2 +1,9 @@
 # Predictive-Modeling-for-Agriculture
-Step into the fascinating world of agriculture with this use case! Discover how multi-class machine learning is being utilized to assist farmers in cultivating the perfect crop each season. Through hands-on experience with actual scenarios, you'll learn the art of applying supervised ML and feature selection techniques to solve real-world problems.
+
+A farmer reached out to you as a machine learning expert seeking help to select the best crop for his field. Due to budget constraints, the farmer explained that he could only afford to measure two out of the four essential soil measures:
+
+Nitrogen content ratio in the soil
+Phosphorous content ratio in the soil
+Potassium content ratio in the soil
+pH value of the soil
+The expert realized that this is a classic feature selection problem, where the objective is to pick the most important features that could help predict the crop accurately. Can you help him?
